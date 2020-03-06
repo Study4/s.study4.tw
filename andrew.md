@@ -1,5 +1,4 @@
 ---
-permalink: /tmwtga
-redirect_to:
-  - http://www.example.com
+title: andrew blog
+redirect_to: http://www.github.com
 ---
