@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Study4 - Short URL App</title>
+    <script type="text/javascript">
+        (function () {
+            fetch('routes.json')
+                .then(response => response.json())
+                .then(routes => {
+                    var url = routes[location.pathname.split('/').pop()];
+                    location.href = url ? url : './index.html';
+                })
+                .catch(error => {
+                    console.log(error);
+                });
+        })();
+    </script>
+</head>
+
+</html>
