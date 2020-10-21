@@ -1,4 +1,4 @@
-# Study4 - Short URL App
+# STUDY4 - Short URL App
 
 A Short URL App base on github page.
 
