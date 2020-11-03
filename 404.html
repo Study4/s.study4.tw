@@ -6,7 +6,7 @@
     <title>STUDY4 - Short URL App</title>
     <script type="text/javascript">
         (function () {
-            fetch('routes.json')
+            fetch(`routes.json?t=${Date.now()}`)
                 .then(response => response.json())
                 .then(routes => {
                     var url = routes[location.pathname.split('/').pop()];
