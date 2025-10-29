@@ -7,9 +7,9 @@
     "PoyChang": "https://blog.poychang.net/",
     "dnc2022-survey": "https://forms.office.com/r/qSpqntxjGa",
     "dnc2023-survey": "https://forms.office.com/r/NNGjy3eULP",
-    "dnc2024": "https://dotnetconf.study4.tw",
-    "dnc2024-reg": "https://study4-tw.kktix.cc/events/dotnetconf2024",
-    "dnc2024-survey": "https://dotnetconf.study4.tw/#",
-    "dnc2024-slides": "https://github.com/Study4/DotNetConfTaiwan2024",
-    "dnc2024-videos": "https://www.youtube.com/playlist?list=PLVJteoOp0sTNTYL3DytomB1FGDrOHEIZJ"
+    "dnc": "https://dotnetconf.study4.tw",
+    "dnc-reg": "https://study4-tw.kktix.cc/events/dotnetconf2025",
+    "dnc-survey": "https://dotnetconf.study4.tw/#",
+    "dnc24-slides": "https://github.com/Study4/DotNetConfTaiwan2024",
+    "dnc24-videos": "https://www.youtube.com/playlist?list=PLVJteoOp0sTNTYL3DytomB1FGDrOHEIZJ"
 }
